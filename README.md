@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnightHONG
-- 👀 I’m interested in Age of Empires II Definitive Edition
+- 👀 I’m interested in writing code
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me ...
